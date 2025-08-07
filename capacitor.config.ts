@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.965ac56c15ee46c286e103360aae7923',
+  appId: 'br.com.divideorango.sorteio',
   appName: 'divide-o-rango-sorteio',
   webDir: 'dist',
   server: {
